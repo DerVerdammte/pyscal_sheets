@@ -1,7 +1,8 @@
 # pyscal_sheets
 Library for Controlling Google Sheets with Pascals *legendary* unusable code!
 
-Funktionen:
+Geplante Funktionen:
+
 pyscal_sheets(id) Erstellt ein Token, sofern es noch nicht da ist, und erlaubt das benutzen der anderen Befehle.
 sheet = pyscal_sheets(id)
 
