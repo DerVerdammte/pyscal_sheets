@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+/credentials.json
+/token.pickle
+# Datasource local storage ignored files
+/../../../../../../../:\Users\Pascal Diekmeier\Documents\Bachelorarbeit\pyscal_sheets\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
